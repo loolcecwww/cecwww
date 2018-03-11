@@ -1,0 +1,124 @@
+
+div{
+    margin: 10px;
+
+}
+.page{
+    width: 75%;
+    height: 1500px;
+    margin: auto;
+}
+.page-heder{
+    height:200px;
+}
+.page-menu{
+    height:80px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.page-main-content{
+   height: 940px; 
+}
+.page-footer{
+    height:200px;
+    
+}
+.heder-left{
+    float:left;
+    width: 20%;
+    height:170px;
+}
+.heder-right{
+    float: right;
+    width: 20%;
+    height:170px;
+}
+.heder-mid{
+     height:170px;
+    margin-left: 22%;
+    margin-right: 22%;
+    width: 55%;
+}
+.heder-right-item1{
+     height:35%;
+}
+.heder-right-item2{
+     height:35%;
+}
+.menu-item1{
+    height:50px;
+     width: 248px;
+     float:left;
+}
+.menu-item2{
+    height:50px;
+     width: 248px;
+     float:left;
+}
+.menu-item3{
+    height:50px;
+      width: 248px;
+    float:left;
+}
+.menu-item4{
+    height:50px;
+     width: 248px;
+     float:left;
+}
+.main-content-left-sidebar{
+     height:910px;
+      width: 20%;
+    float:left;
+}
+.main-content-right-sidebar{
+     height:910px;
+      width: 70%;
+    float:right;
+}
+.right-sidebar-item1{
+    height:80%;
+}
+.left-sidebar-item2{
+    height: 15%;
+}
+.page-footer{
+    height:200px;
+}
+.footer-left{
+    float:left;
+    width: 20%;
+    height:170px;
+}
+.footer-right{
+    float: right;
+    width: 20%;
+    height:170px;
+}
+.footer-mid{
+     height:170px;
+    margin-left: 22%;
+    margin-right: 22%;
+    width: 55%;
+}
+.footer-left-item1{
+     height:35%; 
+}
+.footer-left-item2{
+     height:35%; 
+}
+img{
+    width: 200px;
+}
+body{
+    background: gold
+}
+.img{
+    width: 300px;
+}
+h1{
+    margin-left: 250px;
+}
+.ggg{
+    margin-left: 00px;
+    width: 200px
+}
